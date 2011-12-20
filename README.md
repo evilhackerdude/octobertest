@@ -48,6 +48,4 @@ baz()
 
 ## JSON format
 
-The JSON format is very alpha and hasn't been battle tested yet.
-It is contrived to having test suites with test cases.
-Ideally it should also just accept a simple list of tests and derive the suite name from the file name. 
+The future format should ideally be a simple 1:1 mapping to TAP.
